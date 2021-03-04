@@ -22,6 +22,6 @@ Each visualisation system can have several independent user input components. We
 Each node is in platform with a pole
 where users can
 
-<iframe src="https://myhub.autodesk360.com/ue2c8672e/shares/public/SH56a43QTfd62c1cd9683c46dd617273f20f?mode=embed" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue2c8672e/shares/public/SH56a43QTfd62c1cd9683c46dd617273f20f?mode=embed" </iframe>
 
 A second functionality of this component is to provide physical feedback to the user. This is done by means of light and retrieve the average heart-rate from the
